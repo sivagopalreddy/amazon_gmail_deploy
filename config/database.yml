@@ -1,0 +1,10 @@
+development:
+  adapter: postgresql
+  database: siva #vyh_13july16 #vyhqa_14aug15 #vyhl_14oct15  #vyhqa_14aug15 #vyh_16july15 #vyh_7july15 #vyhqa_17jun15 #vyhqa_27mar15    #vyhqa_27jan15 #paras_india_demo5oct13 
+  username: postgres
+  password: srishti
+  host: localhost
+  port: 5433
+
+ #production:
+ 

@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: siva
+  pool: 5
+  username: postgres
+  password: srishti
+  port: 5433
